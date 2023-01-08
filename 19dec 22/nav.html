@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+        }
+       /* .nav{
+            height: 75px;
+            background-color: rgb(72, 237, 237);
+            width: 100%;
+            position: fixed;
+            top: 0;
+        }
+        main{
+            height: 150vh;
+            background-color: aliceblue;
+        }*/
+        .parent{
+            background-color: aquamarine;
+            display: flex;
+           /* flex-direction: row-reverse;*/
+            justify-content: space-between;
+            align-items: center;
+            height: 100vh;
+        }
+        .circle{
+            background-color: red;
+            height: 150px;
+            width: 150px;
+            min-width: 100px;
+            border-radius: 50%;
+        }
+    </style>
+
+
+
+</head>
+<body>
+    <div class="nav"></div>
+    <main>main content</main>
+    <div class="parent">
+        <div class="circle"><h1>1</h1></div>
+         
+        <div class="circle"><h1>2</h1></div>
+        <div class="circle"><h1>3</h1></div>
+    </div>
+</body>
+</html>

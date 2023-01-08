@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let data = 'A message from Js';
+        console.log(data);
+    </script>
+     <script>
+        let data1 = 'A message from Js';  // we can access a variable written in one script tag using other 
+        console.log(data1);
+    </script>
+    <script>
+        var data3 = {
+            meassage: 'hello world',
+            language: 'english'
+        }
+        //console.log(data3)
+        console.table(data3);  //display as a table
+    </script>
+    <script>
+        //console.log('this is a meassage' );   // inside a script tag if one of the line is incorrect it won't execute another lines in the same tag but another script tag works
+        //console.info('this is a meassage' );
+        //console.warn('this is a meassage' );
+        //console.error('this is a meassage' );
+        //alert('this is an alert from js');
+        let option = confirm('do you want to lopgout?');
+        console.log(option);
+        if(option){
+            console.log('user logout successfully');
+        }
+        const name = prompt('enter your name');
+        console.log('you are', name);
+    </script>
+</body>
+</html>

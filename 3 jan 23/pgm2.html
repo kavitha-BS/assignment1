@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="button" style="height:150px;background-color: aqua;"></div>
+    <hr>
+    <input type="range" min="10" max="100" value="50" onchange="executeEvent(event)"> -->
+         <!-- <button>click me</button>
+        <button>click me</button>
+        <div>
+            <button>click me</button>
+            <button class="btn">click me</button>
+            <button class="btn">click me</button>
+        </div> -->
+        <button>click me</button>
+        <button>click me</button>
+        <button>click me</button>
+        <button>click me</button>
+        <button>click me</button>
+
+        
+     <script>
+        /*const btn = document.getElementById('button');
+        function executeEvent(e){
+            btn.style.width = `${e.target.value}px`;
+        }*/
+       /* const buttons = document.querySelectorAll('div .btn');
+        buttons.forEach(btn=>{
+            btn.style.backgroundcolor = 'teal';
+        })*/
+        document.querySelectorAll('button').forEach(btn=>{
+            btn.addEventListener('click', (e)=>{
+                e.target.innerText = 'clicked';
+            });
+        })
+    </script>
+</body>
+</html>

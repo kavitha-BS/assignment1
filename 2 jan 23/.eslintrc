@@ -1,0 +1,20 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "env": {
+    "browser": true
+  },
+  "extends":[
+    "eslint:recommended"
+  ], 
+  "rules": {
+    // "no-undef":"off"
+    "prefer-const":"warn",
+    "camelcase":"warn",
+    "quotes": [1, "single"],
+    "spaced-comment":"warn",
+    "semi":"error"
+
+  }
+}

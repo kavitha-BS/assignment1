@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="name" name="name">
+    <button id="submit" onclick="add_names()">submit</button>
+    <button id="sort" onclick="sort_names()">sort</button>
+    <button id="sort_rvse" onclick="riverse_names()">sort-riverse</button>
+    <input type="text" id="search" name="search">
+    <button id="search" onclick="search()">search</button>
+    <button id="length" onclick="find_length()">length</button>
+    <button id="split" onclick="split_array()">split</button>
+    <button id="dup" onclick="duplicate()">duplicate</button>
+
+    <script>
+        let arr = [];
+        let split_arr = [];
+        function add_names(){
+            // let arr = [];
+            const item = document.getElementById('name').value;
+            arr.push(item);
+            console.log(arr);
+        }
+        function sort_names(){
+            for (let i = 0; i < arr.length-1; i++){
+                for(let j = 0; j < arr.length-1; j++){
+                    if(arr[i] > arr[j+1]){
+                        let temp = arr[i];
+                        arr[i] = arr[j+1];
+                        arr[j+1] = temp;
+                    }
+                }
+            }
+            console.log(arr)
+            //document.write(array);
+        }
+        function riverse_names(){
+            for (let i = 0; i < arr.length-1; i++){
+                for(let j = 0; j < arr.length-1; j++){
+                    if(arr[i] < arr[j+1]){
+                        let temp = arr[i];
+                        arr[i] = arr[j+1];
+                        arr[j+1] = temp;
+                    }
+                }
+            }
+            console.log(arr)
+            //document.write(array);
+        }
+        function search(){
+            const s_item = document.getElementById('search').value;
+           
+            arr.find(e=>{
+            if(e == s_item){
+                console.log("item present");
+                
+            }
+        //    else{
+        //     console.log("item not present" );
+        // }
+     } );
+        
+        }
+        function find_length(){
+            for(let i = 0; i < arr.length; i++){
+                let l = arr[i].length;
+                console.log(l);
+            }
+        }
+        function split_array(){
+            arr.forEach(e=>{
+                split_arr.push(e.split(' '));
+            });
+           console.log(split_arr); 
+        }
+        function duplicate(){
+            for(let i = 0; i<arr.length; i++){
+                for(let j = i+1; j<arr.length;j++){
+                    if(arr[i] == arr[j]){
+                        console.log(arr[i]);
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+</html>

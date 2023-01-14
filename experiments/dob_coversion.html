@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="date" id="dte">
+    <button onclick="year()">years</button>
+    <!-- <button onclick="month()">months</button> -->
+
+    <script>
+        function year(){
+         var dob = new Date(document.getElementById('dte').value);
+         var db = new Date(dob);
+         var today = new Date();
+         var diff = today.getTime() - db.getTime();
+         var diff_date = new Date(diff);
+         // diff_date.getHours();
+         //console.log(diff_date);
+         // diff = Math.floor(diff / (1000 * 60 * 60 * 24 * 365.25));
+         //console.log(diff);
+        
+          const year = diff_date.getYear()-70;
+         //var month = diff_date.getMonth();
+         //var day = diff_date.getDay();
+          console.log('no of years are',year);
+        
+         //console.log(month);
+         //console.log(day);
+         
+            // var dob = new Date(document.getElementById('dte').value);
+            // var db = new Date(dob);
+            // var today = new Date();
+            // var diff = today.getTime() - db.getTime();
+            // var diff_date = new Date(diff);
+            // const year = diff_date.getYear()-70;
+            const month = year * 12;
+            console.log('no of months are',month);
+            const week = month * 5;
+            console.log('no of weeks are',week);
+            const day = week * 7;
+            console.log('no of days are',day);
+            const hours = day * 24;
+            console.log('no of hours are',hours);
+        }
+        
+    </script>
+</body>
+</html>

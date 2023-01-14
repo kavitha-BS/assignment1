@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="fare">
+    <button id="bu" onclick="add_fare()">add</button>
+    <button onclick="prnt_asc()">Asc</button>
+    <button onclick="prnt_dec()">Desc</button>
+    <input type="text" id="search">
+    <button onclick="search()">search</button>
+    <button onclick="max()">maximum</button>
+    <button onclick="min()">minimum</button>
+    <button onclick="duplicate()">duplicate</button>
+
+    <script>
+        const arr =[];
+        function add_fare(){
+            const item = parseFloat(document.getElementById('fare').value);
+            arr.push(item);
+            console.log(arr);
+        }
+        function prnt_asc(){
+            arr.sort();
+            console.log(arr);
+        }
+        function prnt_dec(){
+            arr.reverse();
+            console.log(arr);
+        }
+        function search(){
+            const val = parseFloat(document.getElementById('search').value);
+            let t = 0;
+            for(let i = 0;i < arr.length;i++){
+                   if(arr[i] == val){
+                        console.log(arr[i]);
+                        t = 1;
+                    }
+                   
+                }
+            if(t ==0){
+                console.log('not present');
+            }
+            }
+        function max(){
+            const mx = Math.max(...arr);
+            console.log(mx);
+        }
+        function min(){
+            const mn = Math.min(...arr);
+            console.log(mn);
+        }
+        function duplicate(){
+            for(let i = 0; i<arr.length; i++){
+                for(let j = i+1; j<arr.length;j++){
+                    if(arr[i] == arr[j]){
+                        console.log(arr[i]);
+                    }
+                }
+            }
+        }
+        
+    </script>
+</body>
+</html>

@@ -10,6 +10,7 @@
     <input type="date" id="dte">
     <button onclick="year()">years</button>
     <!-- <button onclick="month()">months</button> -->
+    <button onclick="check()">check</button>
 
     <script>
         function year(){
@@ -45,6 +46,24 @@
             console.log('no of days are',day);
             const hours = day * 24;
             console.log('no of hours are',hours);
+        }
+        function check(){
+         var d_ob = new Date(document.getElementById('dte').value);
+         var d_b = new Date(d_ob); 
+         var db = d_b.getFullYear();
+         console.log(db);
+         //console.log(db);
+        // var d_o_b = d_b.getTime();
+         //var db = new Date(d_o_b);
+         //console.log(d_o_b);
+        //const yr = db.getFullYear()-70;
+         //console.log(yr);
+         if ((0 == db % 4) && (0 != db % 100) || (0 == db % 400)) {
+           console.log(db + ' is a leap year');
+         } 
+         else {
+           console.log(db + ' is not a leap year');
+          }
         }
         
     </script>

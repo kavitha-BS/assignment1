@@ -1,0 +1,15 @@
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\bin\Debug\net6.0\qust5.exe
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\bin\Debug\net6.0\qust5.deps.json
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\bin\Debug\net6.0\qust5.runtimeconfig.json
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\bin\Debug\net6.0\qust5.dll
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\bin\Debug\net6.0\qust5.pdb
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\qust5.csproj.AssemblyReference.cache
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\qust5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\qust5.AssemblyInfoInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\qust5.AssemblyInfo.cs
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\qust5.csproj.CoreCompileInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\qust5.dll
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\refint\qust5.dll
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\qust5.pdb
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\qust5.genruntimeconfig.cache
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\ref\qust5.dll

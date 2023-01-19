@@ -1,0 +1,15 @@
+C:\Users\kavitha.bs\source\repos\questions\qust9\bin\Debug\net6.0\qust9.exe
+C:\Users\kavitha.bs\source\repos\questions\qust9\bin\Debug\net6.0\qust9.deps.json
+C:\Users\kavitha.bs\source\repos\questions\qust9\bin\Debug\net6.0\qust9.runtimeconfig.json
+C:\Users\kavitha.bs\source\repos\questions\qust9\bin\Debug\net6.0\qust9.dll
+C:\Users\kavitha.bs\source\repos\questions\qust9\bin\Debug\net6.0\qust9.pdb
+C:\Users\kavitha.bs\source\repos\questions\qust9\obj\Debug\net6.0\qust9.csproj.AssemblyReference.cache
+C:\Users\kavitha.bs\source\repos\questions\qust9\obj\Debug\net6.0\qust9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavitha.bs\source\repos\questions\qust9\obj\Debug\net6.0\qust9.AssemblyInfoInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\qust9\obj\Debug\net6.0\qust9.AssemblyInfo.cs
+C:\Users\kavitha.bs\source\repos\questions\qust9\obj\Debug\net6.0\qust9.csproj.CoreCompileInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\qust9\obj\Debug\net6.0\qust9.dll
+C:\Users\kavitha.bs\source\repos\questions\qust9\obj\Debug\net6.0\refint\qust9.dll
+C:\Users\kavitha.bs\source\repos\questions\qust9\obj\Debug\net6.0\qust9.pdb
+C:\Users\kavitha.bs\source\repos\questions\qust9\obj\Debug\net6.0\qust9.genruntimeconfig.cache
+C:\Users\kavitha.bs\source\repos\questions\qust9\obj\Debug\net6.0\ref\qust9.dll

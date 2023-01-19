@@ -1,0 +1,15 @@
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\bin\Debug\net6.0\Fourthproject.exe
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\bin\Debug\net6.0\Fourthproject.deps.json
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\bin\Debug\net6.0\Fourthproject.runtimeconfig.json
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\bin\Debug\net6.0\Fourthproject.dll
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\bin\Debug\net6.0\Fourthproject.pdb
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\obj\Debug\net6.0\Fourthproject.csproj.AssemblyReference.cache
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\obj\Debug\net6.0\Fourthproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\obj\Debug\net6.0\Fourthproject.AssemblyInfoInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\obj\Debug\net6.0\Fourthproject.AssemblyInfo.cs
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\obj\Debug\net6.0\Fourthproject.csproj.CoreCompileInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\obj\Debug\net6.0\Fourthproject.dll
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\obj\Debug\net6.0\refint\Fourthproject.dll
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\obj\Debug\net6.0\Fourthproject.pdb
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\obj\Debug\net6.0\Fourthproject.genruntimeconfig.cache
+C:\Users\kavitha.bs\source\repos\questions\Fourthproject\obj\Debug\net6.0\ref\Fourthproject.dll

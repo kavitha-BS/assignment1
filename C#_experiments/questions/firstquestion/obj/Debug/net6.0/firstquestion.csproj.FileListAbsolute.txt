@@ -1,0 +1,15 @@
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\bin\Debug\net6.0\firstquestion.exe
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\bin\Debug\net6.0\firstquestion.deps.json
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\bin\Debug\net6.0\firstquestion.runtimeconfig.json
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\bin\Debug\net6.0\firstquestion.dll
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\bin\Debug\net6.0\firstquestion.pdb
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\obj\Debug\net6.0\firstquestion.csproj.AssemblyReference.cache
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\obj\Debug\net6.0\firstquestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\obj\Debug\net6.0\firstquestion.AssemblyInfoInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\obj\Debug\net6.0\firstquestion.AssemblyInfo.cs
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\obj\Debug\net6.0\firstquestion.csproj.CoreCompileInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\obj\Debug\net6.0\firstquestion.dll
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\obj\Debug\net6.0\refint\firstquestion.dll
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\obj\Debug\net6.0\firstquestion.pdb
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\obj\Debug\net6.0\firstquestion.genruntimeconfig.cache
+C:\Users\kavitha.bs\source\repos\questions\firstquestion\obj\Debug\net6.0\ref\firstquestion.dll

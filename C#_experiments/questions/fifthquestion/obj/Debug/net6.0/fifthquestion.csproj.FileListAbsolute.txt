@@ -1,0 +1,15 @@
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\bin\Debug\net6.0\fifthquestion.exe
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\bin\Debug\net6.0\fifthquestion.deps.json
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\bin\Debug\net6.0\fifthquestion.runtimeconfig.json
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\bin\Debug\net6.0\fifthquestion.dll
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\bin\Debug\net6.0\fifthquestion.pdb
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\fifthquestion.csproj.AssemblyReference.cache
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\fifthquestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\fifthquestion.AssemblyInfoInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\fifthquestion.AssemblyInfo.cs
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\fifthquestion.csproj.CoreCompileInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\fifthquestion.dll
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\refint\fifthquestion.dll
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\fifthquestion.pdb
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\fifthquestion.genruntimeconfig.cache
+C:\Users\kavitha.bs\source\repos\questions\fifthquestion\obj\Debug\net6.0\ref\fifthquestion.dll

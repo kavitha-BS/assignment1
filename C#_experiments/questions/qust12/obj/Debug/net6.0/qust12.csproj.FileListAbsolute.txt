@@ -1,0 +1,15 @@
+C:\Users\kavitha.bs\source\repos\questions\qust12\bin\Debug\net6.0\qust12.exe
+C:\Users\kavitha.bs\source\repos\questions\qust12\bin\Debug\net6.0\qust12.deps.json
+C:\Users\kavitha.bs\source\repos\questions\qust12\bin\Debug\net6.0\qust12.runtimeconfig.json
+C:\Users\kavitha.bs\source\repos\questions\qust12\bin\Debug\net6.0\qust12.dll
+C:\Users\kavitha.bs\source\repos\questions\qust12\bin\Debug\net6.0\qust12.pdb
+C:\Users\kavitha.bs\source\repos\questions\qust12\obj\Debug\net6.0\qust12.csproj.AssemblyReference.cache
+C:\Users\kavitha.bs\source\repos\questions\qust12\obj\Debug\net6.0\qust12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavitha.bs\source\repos\questions\qust12\obj\Debug\net6.0\qust12.AssemblyInfoInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\qust12\obj\Debug\net6.0\qust12.AssemblyInfo.cs
+C:\Users\kavitha.bs\source\repos\questions\qust12\obj\Debug\net6.0\qust12.csproj.CoreCompileInputs.cache
+C:\Users\kavitha.bs\source\repos\questions\qust12\obj\Debug\net6.0\qust12.dll
+C:\Users\kavitha.bs\source\repos\questions\qust12\obj\Debug\net6.0\refint\qust12.dll
+C:\Users\kavitha.bs\source\repos\questions\qust12\obj\Debug\net6.0\qust12.pdb
+C:\Users\kavitha.bs\source\repos\questions\qust12\obj\Debug\net6.0\qust12.genruntimeconfig.cache
+C:\Users\kavitha.bs\source\repos\questions\qust12\obj\Debug\net6.0\ref\qust12.dll

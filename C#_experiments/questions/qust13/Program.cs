@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//See https://aka.ms/new-console-template for more information
 int[] arr = new int[10];
 
 for (int i = 1; ; i++)
@@ -22,5 +22,13 @@ for (int i = 1; ; i++)
     }
 
 }
-
+//var Name = "Kavitha B S";
+//var Temp = Name.Split(' ');
+////Console.WriteLine(string.Join(",", Temp));
+////for (int i = Temp.Length - 1; i >= 0; i--)
+////{
+////    //Console.Write($"{Temp[i]} ");
+////    Console.Write($"{Temp[i]} ");
+////}
+//Console.WriteLine(Temp[2] + Temp[1] + Temp[0]);
 
